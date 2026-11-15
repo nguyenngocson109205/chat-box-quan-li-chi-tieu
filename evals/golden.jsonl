@@ -1,0 +1,50 @@
+{"input": "phở 45k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 45000, "danh_muc": "an_uong", "ngay": "2026-11-15", "ghi_chu": "Phở"}}
+{"input": "sáng nay làm ly bạc xỉu 29 nghìn", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 29000, "danh_muc": "an_uong", "ngay": "2026-11-15", "ghi_chu": "Bạc xỉu"}}
+{"input": "cơm tấm sườn bì chả 45.000", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 45000, "danh_muc": "an_uong", "ngay": "2026-11-15", "ghi_chu": "Cơm tấm sườn bì chả"}}
+{"input": "trà sữa phúc long 65k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 65000, "danh_muc": "an_uong", "ngay": "2026-11-15", "ghi_chu": "Trà sữa Phúc Long"}}
+{"input": "bánh mì 20 ngàn", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 20000, "danh_muc": "an_uong", "ngay": "2026-11-15", "ghi_chu": "Bánh mì"}}
+{"input": "đi siêu thị bách hóa xanh mua đồ ăn hết 235k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 235000, "danh_muc": "an_uong", "ngay": "2026-11-15", "ghi_chu": "Mua đồ ăn Bách Hóa Xanh"}}
+{"input": "hôm qua nhậu với team hết 3 lít", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 300000, "danh_muc": "an_uong", "ngay": "2026-11-14", "ghi_chu": "Nhậu với team"}}
+{"input": "order grabfood bún đậu 78k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 78000, "danh_muc": "an_uong", "ngay": "2026-11-15", "ghi_chu": "Bún đậu GrabFood"}}
+{"input": "nước mía 10k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 10000, "danh_muc": "an_uong", "ngay": "2026-11-15", "ghi_chu": "Nước mía"}}
+{"input": "trưa nay ăn buffet nướng 299.000đ", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 299000, "danh_muc": "an_uong", "ngay": "2026-11-15", "ghi_chu": "Buffet nướng"}}
+{"input": "mua thùng mì tôm 115k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 115000, "danh_muc": "an_uong", "ngay": "2026-11-15", "ghi_chu": "Thùng mì tôm"}}
+{"input": "tối thứ 6 đi ăn lẩu 180k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 180000, "danh_muc": "an_uong", "ngay": "2026-11-13", "ghi_chu": "Ăn lẩu"}}
+{"input": "highlands freeze trà xanh 55k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 55000, "danh_muc": "an_uong", "ngay": "2026-11-15", "ghi_chu": "Highlands Freeze trà xanh"}}
+{"input": "mua trái cây 5 chục", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 50000, "danh_muc": "an_uong", "ngay": "2026-11-15", "ghi_chu": "Mua trái cây"}}
+{"input": "hủ tiếu gõ 25k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 25000, "danh_muc": "an_uong", "ngay": "2026-11-15", "ghi_chu": "Hủ tiếu gõ"}}
+{"input": "đổ đầy bình xăng 75k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 75000, "danh_muc": "di_chuyen", "ngay": "2026-11-15", "ghi_chu": "Đổ xăng"}}
+{"input": "gửi xe 5k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 5000, "danh_muc": "di_chuyen", "ngay": "2026-11-15", "ghi_chu": "Gửi xe"}}
+{"input": "bắt grab bike ra bến xe 42k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 42000, "danh_muc": "di_chuyen", "ngay": "2026-11-15", "ghi_chu": "GrabBike ra bến xe"}}
+{"input": "thay nhớt xe máy 150 nghìn", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 150000, "danh_muc": "di_chuyen", "ngay": "2026-11-15", "ghi_chu": "Thay nhớt xe máy"}}
+{"input": "hôm kia đi xanh sm hết 64k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 64000, "danh_muc": "di_chuyen", "ngay": "2026-11-13", "ghi_chu": "Đi Xanh SM"}}
+{"input": "vé xe buýt 7k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 7000, "danh_muc": "di_chuyen", "ngay": "2026-11-15", "ghi_chu": "Vé xe buýt"}}
+{"input": "rửa xe 30.000", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 30000, "danh_muc": "di_chuyen", "ngay": "2026-11-15", "ghi_chu": "Rửa xe"}}
+{"input": "vá lốp xe 25k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 25000, "danh_muc": "di_chuyen", "ngay": "2026-11-15", "ghi_chu": "Vá lốp xe"}}
+{"input": "đóng tiền trọ tháng này 2tr5", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 2500000, "danh_muc": "hoa_don", "ngay": "2026-11-15", "ghi_chu": "Tiền trọ tháng 11"}}
+{"input": "tiền điện nước 380k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 380000, "danh_muc": "hoa_don", "ngay": "2026-11-15", "ghi_chu": "Tiền điện nước"}}
+{"input": "nạp 4g viettel 90k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 90000, "danh_muc": "hoa_don", "ngay": "2026-11-15", "ghi_chu": "Nạp 4G Viettel"}}
+{"input": "thứ 2 tuần trước chốt đơn shopee cái tai nghe 450k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 450000, "danh_muc": "mua_sam", "ngay": "2026-11-02", "ghi_chu": "Mua tai nghe Shopee"}}
+{"input": "mua đôi giày chạy bộ 1 củ 2", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 1200000, "danh_muc": "mua_sam", "ngay": "2026-11-15", "ghi_chu": "Mua giày chạy bộ"}}
+{"input": "hôm qua đi xem phim cgv 110k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 110000, "danh_muc": "giai_tri", "ngay": "2026-11-14", "ghi_chu": "Xem phim CGV"}}
+{"input": "nạp game 2 lít", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 200000, "danh_muc": "giai_tri", "ngay": "2026-11-15", "ghi_chu": "Nạp game"}}
+{"input": "gia hạn spotify 59k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 59000, "danh_muc": "giai_tri", "ngay": "2026-11-15", "ghi_chu": "Gia hạn Spotify"}}
+{"input": "đóng tiền sân cầu lông 60k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 60000, "danh_muc": "suc_khoe", "ngay": "2026-11-15", "ghi_chu": "Tiền sân cầu lông"}}
+{"input": "ra nhà thuốc long châu mua vỉ cảm cúm 85k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 85000, "danh_muc": "suc_khoe", "ngay": "2026-11-15", "ghi_chu": "Mua thuốc cảm cúm"}}
+{"input": "thứ 4 vừa rồi mua cuốn sách lập trình 165k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 165000, "danh_muc": "hoc_tap", "ngay": "2026-11-11", "ghi_chu": "Mua sách lập trình"}}
+{"input": "in tài liệu ôn thi 28k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 28000, "danh_muc": "hoc_tap", "ngay": "2026-11-15", "ghi_chu": "In tài liệu ôn thi"}}
+{"input": "mẹ mới chuyển khoản cho 3 củ tiền sinh hoạt", "today": "2026-11-15", "expected": {"loai": "thu", "so_tien": 3000000, "danh_muc": "luong_thuong", "ngay": "2026-11-15", "ghi_chu": "Mẹ chuyển tiền sinh hoạt"}}
+{"input": "nhận lương part-time tháng 10 được 4tr5", "today": "2026-11-15", "expected": {"loai": "thu", "so_tien": 4500000, "danh_muc": "luong_thuong", "ngay": "2026-11-15", "ghi_chu": "Lương part-time tháng 10"}}
+{"input": "thằng Huy trả nợ bữa ăn 150k", "today": "2026-11-15", "expected": {"loai": "thu", "so_tien": 150000, "danh_muc": "khac", "ngay": "2026-11-15", "ghi_chu": "Huy trả nợ"}}
+{"input": "pass lại con chuột cũ được 350k", "today": "2026-11-15", "expected": {"loai": "thu", "so_tien": 350000, "danh_muc": "khac", "ngay": "2026-11-15", "ghi_chu": "Bán chuột cũ"}}
+{"input": "được hoàn tiền shopee 42.000", "today": "2026-11-15", "expected": {"loai": "thu", "so_tien": 42000, "danh_muc": "khac", "ngay": "2026-11-15", "ghi_chu": "Hoàn tiền Shopee"}}
+{"input": "hôm qua ba cho 5 lít đổ xăng", "today": "2026-11-15", "expected": {"loai": "thu", "so_tien": 500000, "danh_muc": "luong_thuong", "ngay": "2026-11-14", "ghi_chu": "Ba cho tiền đổ xăng"}}
+{"input": "thưởng làm tốt dự án 1 củ rưỡi", "today": "2026-11-15", "expected": {"loai": "thu", "so_tien": 1500000, "danh_muc": "luong_thuong", "ngay": "2026-11-15", "ghi_chu": "Thưởng dự án"}}
+{"input": "cafe với Nam 120k chia đôi", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 60000, "danh_muc": "an_uong", "ngay": "2026-11-15", "ghi_chu": "Cafe với Nam (chia đôi)"}}
+{"input": "ăn nướng 600k 3 đứa chia đều tao trả trước", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 200000, "danh_muc": "an_uong", "ngay": "2026-11-15", "ghi_chu": "Ăn nướng chia 3 (trả trước 600k)"}}
+{"input": "đặt grab 65k áp mã giảm còn 38k", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 38000, "danh_muc": "di_chuyen", "ngay": "2026-11-15", "ghi_chu": "Đi Grab (đã áp mã giảm giá)"}}
+{"input": "bún bò 45k bo thêm 5k cho cô bán hàng", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 50000, "danh_muc": "an_uong", "ngay": "2026-11-15", "ghi_chu": "Bún bò (kèm tip 5k)"}}
+{"input": "trả nợ thằng Minh 250k tiền vé xem phim hôm thứ 2 đầu tuần", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 250000, "danh_muc": "giai_tri", "ngay": "2026-11-09", "ghi_chu": "Trả tiền vé xem phim cho Minh"}}
+{"input": "bữa trưa 110k bao thằng em", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 110000, "danh_muc": "an_uong", "ngay": "2026-11-15", "ghi_chu": "Ăn trưa (bao em)"}}
+{"input": "mua áo khoác 500k mà shop hoàn lại nửa lít do giao trễ", "today": "2026-11-15", "expected": {"loai": "chi", "so_tien": 450000, "danh_muc": "mua_sam", "ngay": "2026-11-15", "ghi_chu": "Mua áo khoác (đã trừ 50k hoàn tiền)"}}
+{"input": "nhặt được 50k ngoài đường", "today": "2026-11-15", "expected": {"loai": "thu", "so_tien": 50000, "danh_muc": "khac", "ngay": "2026-11-15", "ghi_chu": "Nhặt được tiền"}}
